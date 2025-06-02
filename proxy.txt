@@ -1,0 +1,16 @@
+# Proxy Configuration File
+# Format: host:port or protocol://host:port or host:port:username:password
+# Lines starting with # are comments
+
+# Example HTTP proxies (replace with real proxies):
+# 192.168.1.100:8080
+# http://proxy1.example.com:3128
+# 203.0.113.1:8080:username:password
+
+# Example SOCKS proxies:
+# socks5://proxy2.example.com:1080
+# socks4://192.168.1.200:1080
+
+# Add your proxy servers below:
+# proxy.example.com:8080
+# 192.168.1.1:3128
